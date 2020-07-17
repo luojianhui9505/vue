@@ -99,5 +99,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/luojianhui9505/luojianhui.github.io
+  repo: git@github.com:luojianhui9505/vue.git
   branch: master
